@@ -1,0 +1,44 @@
+[
+	{
+		"id": "1",
+		"name": "Notex",
+		"description": "A simple web app to manage your notes. It is a single page application with a simple UI, a simple backend and database, and with concepts as authentication, CRUD operations, dark mode, responsive design and more.",
+		"siteUrl": "https://notexapp.herokuapp.com/",
+		"imgUrl": "https://i.imgur.com/bOyF3Qm.png",
+		"githubUrl": "https://github.com/GiancarloGF/Backend-NotesList-App",
+		"status": "Completed",
+		"type": "Full Stack",
+		"stack": [
+			"React",
+			"React Router",
+			"Redux",
+			"CSS Modules",
+			"Nodejs",
+			"Axios",
+			"Express",
+			"MongoDB"
+		],
+		"date": "2020"
+	},
+	{
+		"id": "2",
+		"name": "Shanti E-Shop",
+		"description": "A simple ecommerce (with all the main operations) web app with a simple UI, a simple backend and database, and with concepts as authentication, CRUD operations, dark mode, responsive design and more.",
+		"siteUrl": "https://shantishop.vercel.app/",
+		"imgUrl": "https://i.imgur.com/7ciRu4S.png",
+		"githubUrl": "https://github.com/GiancarloGF/ecommerce-shanty",
+		"status": "Completed",
+		"type": "Full Stack",
+		"stack": [
+			"React",
+			"React Context",
+			"CSS Modules",
+			"Nextjs",
+			"Axios",
+			"MongoDB",
+			"Express",
+			"Paypal API"
+		],
+		"date": "2020"
+	}
+]
