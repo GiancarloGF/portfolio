@@ -19,28 +19,28 @@ const userData = {
 		{
 			title: 'Notex',
 			link: 'https://notexapp.herokuapp.com/',
-			imgUrl: 'https://i.imgur.com/Vxnzn95.png',
+			imgUrl: 'https://i.imgur.com/bOyF3Qm.png',
 		},
 		{
 			title: 'Shanty E-Shop',
 			link: 'https://shantishop.vercel.app/',
-			imgUrl: 'https://i.imgur.com/Dy08zZv.png',
+			imgUrl: 'https://i.imgur.com/7ciRu4S.png',
 		},
-		{
-			title: 'Portfolio',
-			link: 'https://manuarora.in',
-			imgUrl: '/portfolio.png',
-		},
+		// {
+		// 	title: 'Portfolio',
+		// 	link: 'https://manuarora.in',
+		// 	imgUrl: '/portfolio.png',
+		// },
 		{
 			title: 'Chore Door Game',
 			link: 'https://giancarlogf.github.io/Chore-Door/choreDoor.html',
-			imgUrl: 'https://i.imgur.com/HQrjkJC.png',
+			imgUrl: 'https://i.imgur.com/0MB5FLA.png',
 		},
 
 		{
 			title: 'Job Filter',
 			link: 'https://joblisting-app.herokuapp.com/',
-			imgUrl: 'https://i.imgur.com/BWX3SP2.png',
+			imgUrl: 'https://i.imgur.com/hqwn3gC.png',
 		},
 	],
 
