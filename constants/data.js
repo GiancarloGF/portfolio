@@ -23,7 +23,7 @@ const userData = {
 		},
 		{
 			title: 'Shanty E-Shop',
-			link: 'https://shantishop.vercel.app/',
+			link: 'https://ecommerce-shanty.vercel.app/',
 			imgUrl: 'https://i.imgur.com/7ciRu4S.png',
 		},
 		// {
