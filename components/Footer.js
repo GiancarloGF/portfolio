@@ -17,13 +17,13 @@ export default function Footer() {
 						</div>
 					</div>
 					<div className='space-x-4 flex flex-row items-center'>
-						<a href={`mailto:${userData.email}`} className='text-base font-normal text-gray-600 dark:text-gray-300'>
+						<a href={`mailto:${userData.email}`} className='text-base font-normal text-gray-600 dark:text-gray-300 hover:font-medium'>
 							gian.guerra23@gmail.com
 						</a>
-						<a href={userData.socialLinks.github} className='text-base font-normal text-gray-600 dark:text-gray-300'>
+						<a href={userData.socialLinks.github} className='text-base font-normal text-gray-600 dark:text-gray-300 hover:font-medium'>
 							Github
 						</a>
-						<a href={userData.socialLinks.linkedin} className='text-base font-normal text-gray-600 dark:text-gray-300'>
+						<a href={userData.socialLinks.linkedin} className='text-base font-normal text-gray-600 dark:text-gray-300 hover:font-medium'>
 							LinkedIn
 						</a>
 					</div>

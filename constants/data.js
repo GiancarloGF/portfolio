@@ -26,11 +26,7 @@ const userData = {
 			link: 'https://ecommerce-shanty.vercel.app/',
 			imgUrl: 'https://i.imgur.com/7ciRu4S.png',
 		},
-		// {
-		// 	title: 'Portfolio',
-		// 	link: 'https://manuarora.in',
-		// 	imgUrl: '/portfolio.png',
-		// },
+
 		{
 			title: 'Chore Door Game',
 			link: 'https://giancarlogf.github.io/Chore-Door/choreDoor.html',
@@ -77,8 +73,6 @@ const userData = {
 	],
 	resumeUrl: 'https://drive.google.com/file/d/1XaYeSJ781F8jcZcYCJUCXbDPBqZt5Qko/view?usp=sharing',
 	socialLinks: {
-		instagram: 'https://instagram.com/maninthere',
-		twitter: 'https://twitter.com/mannupaaji',
 		linkedin: 'https://linkedin.com/in/giancarloguerraf',
 		github: 'https://github.com/GiancarloGF',
 		facebook: 'https://facebook.com/',

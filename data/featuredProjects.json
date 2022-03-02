@@ -24,7 +24,7 @@
 		"id": "2",
 		"name": "Shanti E-Shop",
 		"description": "A simple ecommerce (with all the main operations) web app with a simple UI, a simple backend and database, and with concepts as authentication, CRUD operations, dark mode, responsive design and more.",
-		"siteUrl": "https://shantishop.vercel.app/",
+		"siteUrl": "https://ecommerce-shanty.vercel.app/",
 		"imgUrl": "https://i.imgur.com/7ciRu4S.png",
 		"githubUrl": "https://github.com/GiancarloGF/ecommerce-shanty",
 		"status": "Completed",
